@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'alay dek siapa yang rindu kamu :3',
     question: 'hehehehe terpaksa atau nggak nih boleh tahu nggak? <3 ......minimal 7 kata',
     btnReply: 'yang bener nih? :>',
-    reply: 'mana ada terpaksa, aku betulan kangen sama kamu😘',
+    reply: 'mana ada terpaksa, aku betulan kangen sama bang jo sayang',
     mess: 'Aku tahu kok🥰. mana mungkin kamu nggak kangen sama aku 😘😘',
     messDesc: 'hehehehe maaf ya kalau cuman bisa nanya lewat website ini.',
     btnAccept: 'Okeee bye , hava a good day <3',
